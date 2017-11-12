@@ -1,0 +1,92 @@
+
+
+html {
+      height: 100%;
+    }
+
+    header {
+        background-color: orange;
+        padding: 5px;
+        font: Roboto;
+        display: block;
+    }
+    h1 {
+      text-align: center;
+
+    }
+    p{
+      text-align: center;
+      font-size: 14pt;
+    }
+    nav {
+        float: left;
+        width: 100%;
+    }
+    nav ul {
+        padding: 0 px;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+        margin-left: 350px;
+
+    }
+    nav li {
+        float: left;
+
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: purple;
+    }
+
+
+
+
+  .international
+  {
+      width: 100%;
+      height: auto;
+    }
+    .american{
+      width: 40%;
+      display:inline-block;
+
+
+    }
+
+    .african{
+      width: 40%;
+
+    display:inline-block;
+    }
+
+    .asian{
+      width: 40%;
+    display:inline-block;
+  }
+
+    .european{
+      width:40%;
+display:inline-block;
+      }
+      section{
+        margin-left:10px;
+
+      }
+      h2{
+        text-align: center;
+        background-color: orange;
+      }
+
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
